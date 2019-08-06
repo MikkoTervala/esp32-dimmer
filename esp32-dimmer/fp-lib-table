@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp32-doit-library)(type KiCad)(uri ${KIPRJMOD}/../lib/esp32-doit-library.pretty)(options "")(descr ""))
+)
