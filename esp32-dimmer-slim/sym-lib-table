@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32-doit-library")(type "Legacy")(uri "${KIPRJMOD}/../lib/esp32-doit-library.lib")(options "")(descr ""))
+  (lib (name "esp32-dimmer-slim-rescue")(type "Legacy")(uri "${KIPRJMOD}/esp32-dimmer-slim-rescue.lib")(options "")(descr "")(disabled)(hidden))
+  (lib (name "ESP32-C3-WROOM-02-H4")(type "KiCad")(uri "${KIPRJMOD}/../lib/esp32-c3/ESP32-C3-WROOM-02-H4.kicad_sym")(options "")(descr ""))
+  (lib (name "AON7524")(type "KiCad")(uri "${KIPRJMOD}/../lib/AON7524/AON7524.kicad_sym")(options "")(descr ""))
+  (lib (name "Wago-2604")(type "KiCad")(uri "${KIPRJMOD}/../lib/Wago-2604/Wago-2604.kicad_sym")(options "")(descr ""))
+)

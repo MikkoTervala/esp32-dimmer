@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32-doit-library")(type "KiCad")(uri "${KIPRJMOD}/../lib/esp32-doit-library.pretty")(options "")(descr ""))
+  (lib (name "Phoenix-connect")(type "KiCad")(uri "${KIPRJMOD}/../lib/Phoenix-connect.pretty")(options "")(descr ""))
+  (lib (name "Voltage-regulator")(type "KiCad")(uri "${KIPRJMOD}/../lib/Voltage-regulator.pretty")(options "")(descr ""))
+  (lib (name "esp32-c3")(type "KiCad")(uri "${KIPRJMOD}/../lib/esp32-c3")(options "")(descr ""))
+  (lib (name "usb-c")(type "KiCad")(uri "${KIPRJMOD}/../lib/usb-c")(options "")(descr ""))
+  (lib (name "AON7524")(type "KiCad")(uri "${KIPRJMOD}/../lib/AON7524")(options "")(descr ""))
+  (lib (name "Wago-2604")(type "KiCad")(uri "${KIPRJMOD}/../lib/Wago-2604.pretty")(options "")(descr ""))
+  (lib (name "XKB_button")(type "KiCad")(uri "C:/Users/miksu/Documents/GitHub/esp32-dimmer/lib/XKB_button.pretty")(options "")(descr ""))
+)
