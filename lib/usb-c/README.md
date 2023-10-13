@@ -1,0 +1,1 @@
+Source: https://github.com/jenschr/USB-C-Connectors/

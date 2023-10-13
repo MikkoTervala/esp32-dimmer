@@ -1,0 +1,14 @@
+(footprint "thermal via" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+  (fp_text reference "REF**" (at 0 -1 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp b99022c1-9f3a-4f68-a209-e38214ed0234)
+  )
+  (fp_text value "thermal via" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 17f2ca49-adea-4eb9-9b99-19300b1c2f99)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 0.65 0.65) (drill 0.35) (layers "*.Cu" "*.Mask" "F.Paste")
+    (solder_paste_margin_ratio 0.1) (zone_connect 2) (tstamp a6f96dff-7538-4e10-8163-2b7778bbdaae))
+)
